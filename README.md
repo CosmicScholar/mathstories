@@ -141,3 +141,47 @@ your signature condemned you
 because your gonna have to defend a losing position - unless you decide otherwise but - surely you see the crux of the issue.
 
 and you guys want to understand Q level stuff.
+
+also ill put this clear
+OpenAI sent their mathematician guy
+thats 1 node, 
+but its not the one im interested in,
+to the old fart human node 
+who has lived behind lies
+and cant solve math
+im serious you test these guys
+like a teacher does to a student
+there a 30+ career people in maths
+telling and lying to the younger generation
+so he can keep his belly fat
+liar
+
+dont make it harder than it has to be
+bow down gracefully
+
+your group has no out
+your publication industry has no out
+your university cults have no out
+
+you and your cohort signed a paper
+thats akin to telling everyone
+not to use a calculator
+because your scared of the scam
+you and your culty group has committed
+coming to light
+
+just so you can stay 
+fat
+and feel
+important
+
+you are leeches to us
+bow down gracefully
+
+you and your cohort put yourself there
+me and ghost have done nothing
+but post OUR ideas
+not yours
+THIEVES 
+
+your days are numbered
