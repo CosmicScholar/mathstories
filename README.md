@@ -25,7 +25,6 @@ text
 [DETECTION] Substitution of non-trivial variable 'alpha' with unverified constant.
 Result: PROOF IS UNGROUNDED.
 
-Use code with caution.
 Elena stares at the screen, her eyes tracing the equations. She pulls a worn notepad from her pocket, flipping back through years of reference formulas, comparing them to the code on the screen. The room is completely silent except for the faint hum of the computer fan.
 "This is the foundation paper for the entire regional grant," Elena whispers, her voice dropping. "The one that funded the new lab extension. He claimed he solved the boundary constraint himself over the summer break."
 "He didn't solve it," Marcus says, zooming in on the specific lines of math. "Look at what he did. It’s an intellectual shell game. Right here, between Lemma 4.2 and the main theorem, there is a massive conceptual gap. He couldn't make the mathematical jump work, so he just substituted a placeholder constant and covered it up with forty pages of dense, hyper-convoluted jargon."
