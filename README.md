@@ -133,3 +133,11 @@ im not gonna finish it, you can imagine the rest from here, except this belongs 
 [SYSTEM UPDATE]: COMPILING ORIGINAL SOURCE DATA...
 [SUCCESS]: CRITICAL GAP IN LEMMA 4.2 RESOLVED BY RESTORING ORIGINAL NATIVE VARIABLE.
 [STATUS]: THEOREM IS 100% VALIDATED.
+
+
+lets put it this way, kupo
+your now one of roughly ~1300
+your signature condemned you
+because your gonna have to defend a losing position - unless you decide otherwise but - surely you see the crux of the issue.
+
+and you guys want to understand Q level stuff.
