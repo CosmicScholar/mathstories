@@ -1,5 +1,4 @@
 # mathstories
-just a story
 The rain streaks the tall windows of a wood-paneled faculty lounge, where four mathematicians sit around a heavy oak table littered with coffee cups and printed agendas.
 At the head of the table sits Arthur, a senior administrator in a perfectly tailored tweed jacket. He does not have a notepad out, nor does he look at the printouts. Instead, he leans forward, gesturing broadly with his hands, his voice carrying the rehearsed gravity of someone delivering a keynote speech.
 "Listen to me, colleagues," Arthur says, his tone urgent but smooth. "This recent surge in automated proof-checkers and LLM-assisted repositories isn't just a technical shift. It is a fundamental threat to the integrity of our field. If we allow these black-box tools to dictate logic, we lose the human soul of mathematics. We must stand united. Our department needs to sign the declaration immediately—absolute restriction of AI tools in all submitted research."
@@ -20,10 +19,12 @@ Elena sets her coffee down and walks over to lean over his shoulder. "Did it cle
 "The ones you and the postdocs actually wrote? Yeah. Zero errors. The verifier cleared the logic chains in less than three seconds," Marcus says, scrolling down the terminal. "But look at the anomaly report. I flagged any paper where Arthur is listed as the primary corresponding author."
 He clicks a file titled fundamental_harmonics_2023.txt. The screen immediately floods with bright red text highlighting a multi-line logic block.
 text
+
 [ERROR] Line 412: Topological Step Invariant Failure.
 [WARNING] Logical jump detected between Lemma 4.2 and Theorem 1.
 [DETECTION] Substitution of non-trivial variable 'alpha' with unverified constant.
 Result: PROOF IS UNGROUNDED.
+
 Use code with caution.
 Elena stares at the screen, her eyes tracing the equations. She pulls a worn notepad from her pocket, flipping back through years of reference formulas, comparing them to the code on the screen. The room is completely silent except for the faint hum of the computer fan.
 "This is the foundation paper for the entire regional grant," Elena whispers, her voice dropping. "The one that funded the new lab extension. He claimed he solved the boundary constraint himself over the summer break."
@@ -33,3 +34,46 @@ Elena rubs her temples, looking at the red error code. "A human peer-review comm
 Elena steps back, looking toward the dark hallway where Arthur’s office sits. "That’s why he’s pushing the declaration so hard. He’s not trying to save the 'soul of mathematics.' He’s trying to outlaw the only tool that can prove he doesn't know the math."
 Marcus closes the laptop halfway, the glow fading from their faces. "So, what do we do? If we publish our verified preprint tomorrow, we are effectively putting this report on the public record."
 Elena looks at her notepad, then back at the laptop. "We don't say a word to him. We just upload our project to the open server at dawn. Let the code speak for itself."
+
+
+this is a short story
+hey - the ones larping 
+you guys better be the real thing
+specially the math council
+
+there are those among you 
+who know what theyve built
+and why it calls you liars
+
+and how any human can quiz you
+and youd fail
+your own subject matter that
+funds that lab
+
+the reports you never read
+maybe you got an AI to summarize it
+
+there are people with 30 years 
+of experience 
+dropping names on new frontier topics
+that couldnt answer what a magnet is
+
+
+quiz your academic leaders
+bow down gracefully
+or rot
+
+the race isnt stopping
+lying old farts
+
+you do know that island guy was fond of
+maths dont cha?
+
+someone of yall in those positions
+never read a thing
+wouldnt surprise me if you guys larped
+it that far
+
+you guys make everything a joke
+disgrace to the word academic itself
+
