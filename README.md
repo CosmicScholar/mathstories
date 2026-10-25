@@ -125,3 +125,12 @@ Arthur’s face tightens, the mask slipping for a fraction of a second before he
 He turns back to the podium, leaning heavily on it, looking at each board member in turn. "If you censor me, or if you retract that paper now, you aren't just punishing me—you are tanking the university’s prestige. You will force the regional board to freeze our funding, and you will kill the very lab extension we just built. The open-source community can play with raw code all they want, but this board answers to a budget. I suggest we issue a formal statement classifying the open-source leak as an unverified, rogue algorithm, and maintain our institutional stance."
 Dr. Vance looks down at her folder, then up at Arthur, her expression unreadable. "Thank you, Arthur. Please step out into the hallway. The board will now move into an executive session to cast its vote."
 Arthur nods smoothly, pulls his cuffs down, and walks out of the boardroom, his footsteps echoing on the polished marble floor as the heavy oak doors click shut behind him.
+
+
+
+im not gonna finish it, you can imagine the rest from here, except this belongs in the ending scenes.
+
+
+[SYSTEM UPDATE]: COMPILING ORIGINAL SOURCE DATA...
+[SUCCESS]: CRITICAL GAP IN LEMMA 4.2 RESOLVED BY RESTORING ORIGINAL NATIVE VARIABLE.
+[STATUS]: THEOREM IS 100% VALIDATED.
